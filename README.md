@@ -2,8 +2,6 @@
 My Name is Vidhi Kalal. Welcome to my Github profile 😄.
 
 
-
-
 - 🔭 I’m currently working on my portfoloio 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on different projects I work on.
