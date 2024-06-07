@@ -1,7 +1,7 @@
 ## Hi there 👋
 My Name is Vidhi Kalal. Welcome to my Github profile 😄.
 
-![Working](https://raw.githubusercontent.com/Vidhikalal/Vidhikalal/master/)
+![Working](https://raw.githubusercontent.com/Vidhikalal/Vidhikalal/master/https://github.com/Vidhikalal/VidhiKalal/blob/main/gif.gif)
 - 🔭 I’m currently working on my portfoloio 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on different projects I work on.
