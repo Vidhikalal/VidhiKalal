@@ -12,6 +12,6 @@ My Name is Vidhi Kalal. Welcome to my Github profile 😄.
 - ⚡ Fun fact: I have completely opposite two different meanings of my name.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vidhi-kalal/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vidhi-kalal)
   
 
