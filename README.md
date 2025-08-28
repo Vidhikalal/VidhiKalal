@@ -1,11 +1,11 @@
 ## Hi there 👋 
-My Name is Vidhi Kalal. Welcome to my Github profile! 😄. 
+My Name is Vidhi Kalal. Welcome to my Github profile! 😄.  
 
 ![Working](https://raw.githubusercontent.com/Vidhikalal/VidhiKalal/master/gif.gif)
-- 🔭 I’m currently working on my portfoloio 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate on different projects I work on
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working as Software Engineer at Flynn Group of Companies 
+- 🌱 I’m currently learning training AI models.
+- 👯 I’m looking to collaborate on different projects I work on and open source contributions
+- 🤔 Have something intresting to build? Do reach out!
 - 💬 Ask me about my weekend plans
 - 📫 How to reach me: Email-vidhikalal15@gmail.com
 - 😄 Pronouns: she/her
