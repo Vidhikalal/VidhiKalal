@@ -3,7 +3,7 @@ My Name is Vidhi Kalal. Welcome to my Github profile! 😄.
 
 ![Working](https://raw.githubusercontent.com/Vidhikalal/VidhiKalal/master/gif.gif)
 - 🔭 I’m currently working as Software Engineer at Flynn Group of Companies 
-- 🌱 I’m currently learning training AI models.
+- 🌱 I’m currently training AI models.
 - 👯 I’m looking to collaborate on different projects I work on and open source contributions
 - 🤔 Have something intresting to build? Do reach out!
 - 💬 Ask me about my weekend plans
