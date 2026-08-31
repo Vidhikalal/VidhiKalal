@@ -9,7 +9,7 @@ My Name is Vidhi Kalal. Welcome to my Github profile! 😄.
 - 💬 Ask me about my weekend plans
 - 📫 How to reach me: Email-vidhikalal15@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have completely opposite two different meanings of my name.
+- ⚡ Fun fact: I have completely two different meanings of my name.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-kalal/)
